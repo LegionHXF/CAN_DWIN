@@ -15,3 +15,8 @@
 
 
 <img width="872" height="652" alt="image" src="https://github.com/user-attachments/assets/b42eeb9e-ad0c-4862-8c7b-70626bccafdd" />
+
+
+**显示页面**
+
+<img width="544" height="344" alt="image" src="https://github.com/user-attachments/assets/9457d23a-228a-42bd-988a-95e0ddbb77f0" />
